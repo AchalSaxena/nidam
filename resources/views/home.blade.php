@@ -67,7 +67,33 @@
     </div>
     <!-- Header Section End -->
     <!-- Disease Section Start -->
-  
+    <div>
+        <h2 class="text-center">Treatment of Diseases</h2>
+  <div class="row mt-3">
+  <div class="col-2 btn p-3 border-right">High Blood Pressure Treatment</div>
+  <div class="col-2 btn p-3 bg-success border-right">Depression Treatment</div>
+  <div class="col-2 btn p-3 text-light border-right">Diabetes Treatment</div>
+  <div class="col-2 btn p-3 text-light border-right">Colitis Treatment</div>
+  <div class="col-2 btn p-3 btn-text-dark border-right" >Amebiasis Treatment</div>
+  <div class="col-2 bg-danger p-3 btn btn-primary border-right">Dizziness Treatment</div>
+  </div>
+  <div class="row mt-3">
+  <div class="col-2 p-3 btn border-right">Bronchitis Treatment</div>
+  <div class="col-2 p-3 btn bg-success border-right ">Arthritis Treatment</div>
+  <div class="col-2 p-3 btn text-light border-right" >SHATKARMA</div>
+  <div class="col-2 p-3 btn text-light border-right">Skin Disorders Treatment<!--  --></div>
+  <div class="col-2 p-3 btn btn-text-dark border-right">Stomach Disorders Treatment</div>
+  <div class="col-2 p-3 bg-danger btn btn-primary border-right">Treatment of Heart disorders</div>
+  </div>
+  <div class="row mt-3">
+  <div class="shadow-lg p-3 col-2 btn border-right small">Treatment of Breathing Disorders</div>
+  <div class="col-2 p-3 btn bg-success border-right bg-info">Treatment of Spinal cord disorders</div>
+  <div class="col-2 p-3 btn text-light border-right bg-warning" >Treatment of Breathing Disorders</div>
+  <div class="col-2 p-3 btn text-light border-right bg-danger">Treatment of Different types of Allergy</div>
+  <div class="col-2 p-3 btn btn-text-dark border-right bg-secondary">Treatment of Insomnia</div>
+  <div class="col-2 p-3 bg-danger btn btn-primary border-right bg-dark">Treatment of Obesity</div>
+  </div>
+    </div>
   
   
   
